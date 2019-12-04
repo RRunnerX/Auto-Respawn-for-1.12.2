@@ -1,0 +1,16 @@
+[
+{
+  "modid": "auto_respawn",
+  "name": "Auto-Respawn",
+  "description": "This is a mod that allows you to respawn without clicking the respawn button.",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RRunnerX"],
+  "credits": "u/boxtopy for coming up with the idea.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
